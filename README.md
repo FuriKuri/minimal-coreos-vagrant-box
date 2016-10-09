@@ -1,0 +1,1 @@
+# minimal-coreos-vagrant-box
