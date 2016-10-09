@@ -6,7 +6,7 @@ A minimal CoreOS Vagrant Box with Docker in version >= 1.12
 ### Download box
 
 ```
-# Download
+# Download Vagrantfile
 $ vagrant init furikuri/minimal-coreos
 
 # Start the VM
